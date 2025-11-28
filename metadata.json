@@ -1,0 +1,5 @@
+{
+  "name": "PokéQuest: Dex & RPG",
+  "description": "A fully mobile-friendly Pokémon experience featuring a global Pokedex and an offline-ready RPG mode with battles, catching, and team building.",
+  "requestFramePermissions": []
+}
